@@ -1,0 +1,20 @@
+{
+  "name": "lazyImage",
+  "main": "lazyImage.js",
+  "dependencies": {
+    "jquery": ">=1.10"
+  },
+  "homepage": "https://github.com/ArtFocus/lazyImage",
+  "authors": [
+    "Jaroslav Hranička <hranicka@outlook.com>"
+  ],
+  "description": "Simple script making images lazy loaded.",
+  "keywords": [
+    "images",
+    "lazy",
+    "loading",
+    "lazy",
+    "images"
+  ],
+  "license": "MIT"
+}
